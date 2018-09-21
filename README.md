@@ -1,6 +1,6 @@
-[酸酸乳使用教程（蓝奏云下载）](https://www.lanzous.com/b258733)
+[酸酸乳使用教程(蓝奏云下载)](https://www.lanzous.com/b258733)
 
-[酸酸乳使用教程（Onedrive下载）【推荐】](https://1drv.ms/f/s!AmWIHMwCirfbc415hslnRCrXp5s)
+[酸酸乳使用教程(Onedrive下载)【推荐】](https://1drv.ms/f/s!AmWIHMwCirfbc415hslnRCrXp5s)
 
 [SSR 客户(PC版)](http://dixssr.tk/Proxy/ShadowsocksR/Windows/ShadowsocksR-win-4.9.0.zip)
 
