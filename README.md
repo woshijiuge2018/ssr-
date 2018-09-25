@@ -17,5 +17,6 @@
 [酸酸甜甜我做主](https://www.lanzous.com/b258734/)
 
 **酸酸乳每天更新，在群里面!**
+### [如何自行购买vps服务器搭建梯子教程](https://github.com/woshijiuge2018/-2/tree/master)
 
 
