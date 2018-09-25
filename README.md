@@ -16,7 +16,7 @@
 
 [酸酸甜甜我做主](https://www.lanzous.com/b258734/)
 
-### [自己搭建酸酸乳](https://github.com/woshijiuge2018/-2/tree/master)
+### [如何自行购买VPS搭建梯子](https://github.com/woshijiuge2018/-2/tree/master)
 
 **酸酸乳每天更新，在群里面!**
 备注：因为使用方法及其简单，所以自行摸索，请勿发邮、勿私聊询问。。
