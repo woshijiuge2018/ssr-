@@ -14,7 +14,7 @@
 
 [SSR 客户端（ iOS版）](https://www.lanzous.com/i131n6j)
 
-[酸酸甜甜我做主](https://www.lanzous.com/b258734/)
+[GooglePay商店安装](https://www.lanzous.com/b385143/)
 
 ### [如何自行购买VPS搭建梯子](https://github.com/woshijiuge2018/-2/tree/master)
 
