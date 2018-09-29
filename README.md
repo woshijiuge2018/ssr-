@@ -6,7 +6,7 @@
 ### 酸酸乳客户端DownLoad
 [SSR 客户端(PC版)](http://dixssr.tk/Proxy/ShadowsocksR/Windows/ShadowsocksR-win-4.9.0.zip)
 
-[SSR 客户端(安卓版)](http://dixssr.tk/Proxy/ShadowsocksR/Android/shadowsocksr-android-3.5.4.apk)
+[SSR 客户端(安卓版)](https://yadi.sk/d/NixhpUFc3aenzM)
 
 [SSR 客户端(MacOS版)](https://dlc.ssrshare.xyz/list/32584/)
 
